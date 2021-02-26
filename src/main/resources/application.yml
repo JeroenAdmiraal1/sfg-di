@@ -1,0 +1,12 @@
+guru:
+  jms:
+    user: JMS Username
+    password: somepass
+    url: SomeURL
+
+--- # file separator
+spring:
+  profiles: en  #takes precedence over the lines above
+guru:
+  jms:
+    user: JMS Username**English

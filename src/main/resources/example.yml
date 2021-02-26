@@ -1,0 +1,36 @@
+# this is a comment
+
+name: John
+
+names:
+  - John
+  - Paul
+  - Ringo # inline comments
+
+pound_sign: "#"
+
+book:
+  author: Joe Abercrombie
+  publisher: Tor
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "This is it"
+
+colon_string: "my courses: one two three"
+
+include_new_lines: |
+  asd adasd ad
+  gfds asfdgds df
+  fws fgedfg dsz
+
+ignore_new_lines: >
+  this is
+  just one long
+  string
